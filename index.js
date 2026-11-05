@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["SSP - Centro Paulista","SSP - Centro Paulista"];
+const statusMessages = ["Assistente virtual PM","19ºBPM/M (Virtual)"];
 
 
 let currentIndex = 0;
